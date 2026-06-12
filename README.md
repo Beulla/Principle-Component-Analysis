@@ -12,7 +12,7 @@ We use PCA to summarise how **30 African countries** (2015–2022) differ in eco
 
 | File | Purpose |
 |------|---------|
-| `Template_PCA_Formative_1.ipynb` | Main notebook — rename with your peer pair number before submitting |
+| `Template_PCA_Formative_1.ipynb` | Main notebook |
 | `data/africa_economic_indicators.csv` | Dataset (14 columns, missing values included) |
 
 ## Dataset
